@@ -1,4 +1,4 @@
-import { createElement } from "lwc";
+import { createElement } from "@lwc/engine-dom";
 import CustomComponent from "c/customComponent";
 
 describe("c-custom-component", () => {
